@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+
+
+
+body{background-color: rgba(217, 166, 216, 0.916);}
+main{width: 1000px;height: 1250px;margin: auto;background-color: rgb(247, 206, 248);border-radius: 5px;}
+article{margin: 0%;padding-top: 15px;}
+article>ul>h1{margin: 0px;text-indent: 15PX;font-size: 30px;font-family: 'Courgette', cursive;background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.993), rgba(231, 101, 225, 0.632));width: 940px;padding-bottom: 5px;border-radius: 20px;}
+
+article>ul{margin-top: 0px;}
+
+p{padding-left: 25px;font-size: 20px;padding-right: 10px;}
+
+div{text-align: center;}
+article>ul>h1{color: rgb(250, 250, 250);text-shadow: 1px 1px 5px rgb(248, 0, 207);}
+img{border-radius: 15px;}
+article{}
