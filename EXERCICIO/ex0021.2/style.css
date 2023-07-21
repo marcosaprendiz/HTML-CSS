@@ -1,0 +1,32 @@
+header{background-color: rgba(140, 255, 0, 0.322);
+    height: 115px;
+    padding: 10px;border-radius: 15PX;}
+
+
+header>h1{color: rgb(0, 0, 0);}
+
+a{color: black;font-size: 20px;text-decoration: nonE;padding: 5PX;}
+
+a:hover{text-decoration: underline ;background-color: rgba(255, 243, 6, 0.224);}
+
+
+body{background-color: rgba(0, 0, 0, 0.719);}
+    div{display: inline;}
+    p{display: inline;}
+div>p{display: none;}
+div:hover>p{display: block;}
+
+main{ width: 900px;background-color: aliceblue; padding: 10px;border-radius: 15px;margin: auto;border-radius: 15px;}
+#assuntos{border-radius: 15px;padding: 5px;}
+
+#carro{background-color: rgb(4, 45, 45);padding: 15px;border-radius: 10px;}
+p{color: aliceblue;}
+#artigo{background-color: rgba(0, 0, 0, 0.623);}
+p{text-indent: 15PX;}
+P{display: block;}
+A{box-shadow: 10PX 10PX 10PX rgba(137, 43, 226, 0.352);background-color: rgba(0, 0, 255, 0.509);}
+
+
+
+
+
